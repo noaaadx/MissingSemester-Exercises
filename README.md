@@ -40,13 +40,11 @@ Each lecture folder follows the same pattern:
 |---------|-------|--------|
 | 01 | Course Overview + Introduction to the Shell | ✅ Complete |
 | 02 | Command-line Environment | ✅ Complete |
-| 03 | Development Environment and Tools | 🔄 In progress |
-| 04 | Debugging and Profiling | ⬜ Pending |
+| 03 | Development Environment and Tools | ✅ Complete |
+| 04 | Debugging and Profiling | 🔄 In progress |
 | 05 | Version Control and Git | ⬜ Pending |
 | 06 | Packaging and Shipping Code | ⬜ Pending |
 | 07 | Agentic Coding | ⬜ Pending |
-| 08 | Beyond the Code | ⬜ Pending |
-| 09 | Code Quality | ⬜ Pending |
 
 ---
 
