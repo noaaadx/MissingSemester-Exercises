@@ -11,7 +11,7 @@
 
 A public repository with notes and exercises from MIT's Missing Semester (2026 edition).
 
-The goal isn't just to solve the problems — it's to understand why the code works the way it does. Every solution includes reasoning, not just the answer. If something took three attempts to get right, that's documented too.
+The goal is to understand and solve Linux exercises proposed by MIT.
 
 ---
 
